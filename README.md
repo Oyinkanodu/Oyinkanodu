@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oyinkanodu
 - 👀 I’m interested in: Crotcheting, baking, coding and watching movies
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Java
 - 📫 How to reach me: oyinkan.odugbemi@gmail.com
 - ⚡ Fun fact: I personally think rice with ofada stew is the best Nigerian dish.
 
